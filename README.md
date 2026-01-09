@@ -10,7 +10,7 @@ The present study builds upon the findings in open literature by implementing a 
 - **fem_burgers_1d**: Rust implementation of the FDM on the 1D Burgers equation.
 - **results**: Folder that stores the outputs of our FDM and PINN model in .csv format.
   - **results_1d_burgers.csv**
-  - **solutions_fem_1d_burgers.csv**
+  - **results_fdm.csv**
 - **burgers_eq_1_degree.py**: The main solver for the 1D Burgers equation.
 - **burgers_eq_multi_variables.py**: The main solver for the 2D Burgers equation (to be modified).
 - **data.py**: Class to create the training and validation datasets.
@@ -18,4 +18,5 @@ The present study builds upon the findings in open literature by implementing a 
 - **metrics.py**: Code that groups the different plots and metrics for analysis.
 - **model.py**: Class to build and train the model.
 - **test_1d_burgers_after_automated**: Test of the 1D Burgers code without automated hyperparameter tuning.
+
 
