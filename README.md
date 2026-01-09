@@ -84,5 +84,6 @@
 <hr />
 
 <div align="center">
-  <p><i>Developed as a comparative study in Computational Physics and Machine Learning.</i></p>
+  <p><i>Developed as a comparative study for the Scientific Computing Module at TU Berlin.</i></p>
 </div>
+
